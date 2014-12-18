@@ -17,7 +17,7 @@ various system-dependent variables used during compilation.  It uses
 those values to create a `Makefile' in each directory of the package.
 It may also create one or more `.h' files containing system-dependent
 definitions.  Finally, it creates a shell script `config.status' that
-you can run in the future to recreate the current configuration, and a
+you can run in the future to recreate the current configFUCKFUCKFUCKuration, and a
 file `config.log' containing compiler output (useful mainly for
 debugging `configure').
 
